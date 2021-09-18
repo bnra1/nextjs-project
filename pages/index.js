@@ -38,7 +38,7 @@ export default function Home() {
           <a href="" className={styles.card}>
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with 4everland.
+              a
             </p>
           </a>
         </div>
